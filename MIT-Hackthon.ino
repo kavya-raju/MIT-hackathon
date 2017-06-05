@@ -84,7 +84,7 @@ void loop() {
     String ToValue = *phone number to which message is sent - Obtained from Twilio"*;
     SendSMSChoreo.addInput("To", ToValue);
     //String BodyValue = "Temp data received ,X data: " + String(Xdata) + " ,Y data: " + String(Ydata) + " ,Z data: " + String(Zdata);
-    String BodyValue = "Baby's breathing is normal";
+    String BodyValue = "Baby-s breathing is normal";
     SendSMSChoreo.addInput("Body", BodyValue);
     String AccountSIDValue = *account SID from temboo*;
     SendSMSChoreo.addInput("AccountSID", AccountSIDValue);
