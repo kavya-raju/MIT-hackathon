@@ -13,3 +13,6 @@ Twilio - (https://www.twilio.com/)
 
 Drivers:
 CC3200 Drivers for macOS - (http://energia.nu/files/EnergiaFTDIDrivers2.3-signed.zip)
+
+
+Additional Info: http://energia.nu/wordpress/wp-content/uploads/2014/06/LaunchPads-CC3200-%E2%80%94-Pins-Maps-12-28.jpeg
